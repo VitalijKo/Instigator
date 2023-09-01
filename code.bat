@@ -1,0 +1,1 @@
+mkdir D:\VIRUS
